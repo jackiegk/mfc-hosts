@@ -1,0 +1,16 @@
+#----------------# 
+# www.mfcclub.com# 
+#----------------# 
+# 104.16.18.170 www.mfcclub.com
+# 104.16.19.170 www.mfcclub.com
+# 104.16.20.170 www.mfcclub.com
+104.16.21.170 www.mfcclub.com
+# 104.16.22.170 www.mfcclub.com
+#----------------# 
+# www.mfcteam.com# 
+#----------------# 
+# 104.16.186.184 www.mfcteam.com
+# 104.16.184.184 www.mfcteam.com
+# 104.16.185.184 www.mfcteam.com
+104.16.183.184 www.mfcteam.com
+# 104.16.182.184 www.mfcteam.com
