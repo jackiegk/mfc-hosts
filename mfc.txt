@@ -8,3 +8,4 @@
 
 104.16.21.170 www.mfcclub.com
 104.16.183.184 www.mfcteam.com
+127.0.0.1 www.baidu.com
